@@ -22,7 +22,7 @@
 > 💬 Ask me about **C++, Data Structures, Web Development**
 
 <div align="center">
-  <a href="https://github.com/Saad123ali"><img src="https://img.shields.io/github/followers/Saad123ali?label=Followers&style=social" alt="GitHub Followers"></a>
+  <a href="https://github.com/itsmesaadali"><img src="https://img.shields.io/github/followers/itsmesaadali?label=Followers&style=social" alt="GitHub Followers"></a>
   <a href="https://leetcode.com/u/itsmesaad/"><img src="https://img.shields.io/badge/LeetCode-itsmesaad-FFA116?style=flat&logo=leetcode" alt="LeetCode"></a>
   <a href="https://www.codewars.com/users/itsmesaad"><img src="https://img.shields.io/badge/Codewars-itsmesaad-B1361E?style=flat&logo=codewars" alt="Codewars"></a>
 </div>
@@ -78,20 +78,20 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saad123ali&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&show_icons=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saad123ali&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=itsmesaadali&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&show_icons=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmesaadali&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="170" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saad123ali&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsmesaadali&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Saad123ali&theme=tokyonight&no-frame=true&no-bg=false&margin-w=3" alt="GitHub Profile Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=itsmesaadali&theme=tokyonight&no-frame=true&no-bg=false&margin-w=3" alt="GitHub Profile Trophy" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saad123ali&bg_color=1a1b27&color=9e4c98&line=bf91f3&point=38dbae&area=true&hide_border=true" alt="GitHub Activity Graph" width="70%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsmesaadali&bg_color=1a1b27&color=9e4c98&line=bf91f3&point=38dbae&area=true&hide_border=true" alt="GitHub Activity Graph" width="70%" />
 </div>
 
 ---
