@@ -31,7 +31,7 @@
 
 <div align="center">
 
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,mysql,tailwind,bootstrap,cpp,git,github,gitlab,vscode,redux,reactquery&perline=5)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,tailwind,bootstrap,cpp,git,github,gitlab,vscode,redux,reactquery&perline=5)](https://skillicons.dev)
 
 </div>
 
